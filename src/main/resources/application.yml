@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://pg-31dfac0d-arjunv9641-72d5.a.aivencloud.com:21916/defaultdb
+    username: avnadmin
+    password: AVNS_RCC_mbqusvX44VkijSq
+    driverClassName: org.postgresql.Driver
