@@ -29,4 +29,6 @@ public class UserController {
     public @ResponseBody Iterable<User> getallUsers() {
         return userRepository.findAll();
     }
+    //if you want to contribute to this project there is an first issue
+    //keystore error:
 }
